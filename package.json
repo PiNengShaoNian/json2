@@ -1,0 +1,7 @@
+{
+  "name": "json2",
+  "version": "1.0.0",
+  "description": "json解析器",
+  "main": "src/index.ts",
+  "license": "MIT"
+}
